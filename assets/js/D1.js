@@ -27,7 +27,7 @@ REGOLE
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
 
-const myName = 'Vittorio'
+const myName = 'Vittorio';
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
@@ -43,7 +43,7 @@ console.log(number1 + number2);
  Crea una variable di nome "x" e assegna ad essa il numero 12.
 */
 
-const x = 12
+const x = 12;
 
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "myName" già esistente: il tuo cognome.
