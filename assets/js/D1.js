@@ -76,11 +76,11 @@ console.log(number3 - x);
 const name1 = 'jhon';
 const name2 = 'Jhon';
 
-if (name1 == name2) {
-  console.log(`${name1} e ${name2} sono uguali`);
+if (name1 !== name2) {
+  console.log(`${name1} e ${name2} sono diversi`);
 } 
 else {
-  console.log(`${name1} e ${name2} sono diversi`);
+  console.log(`${name1} e ${name2} sono uguali`);
   
 }
  /* EXTRA */
